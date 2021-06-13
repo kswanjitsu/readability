@@ -14,4 +14,4 @@ test.py - shows examples of how to use the functions/pipeline with spaCy on a co
 
 Put them in the same folder and you can call the f(x) as needed.
 
-The v2 readability has thorogh documentation on how and why the the scripts work. I just added the wrappers, re-organized and re-factored to make it compatible with newere spaCy versions.
+The v2 readability has thorogh documentation on how and why the the scripts work. I just added the wrappers, re-organized and re-factored to make it compatible with newere spaCy versions. See original spacy_readability here: https://github.com/mholtzscher/spacy_readability
